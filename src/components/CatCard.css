@@ -1,4 +1,4 @@
-.CatCardCont {
+.catCardCont {
   width: 150px;
   margin: 5px; 
   height: 400px; 
@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 
-.CatCardContInner {
+.catCardContInner {
   position: relative;
   width: 100%;
   height: 100%;
@@ -16,7 +16,7 @@
   transform-style: preserve-3d;
 }
 
-.CatCardCont:hover .catCardContInner {
+.catCardCont:hover .catCardContInner {
   transform: rotateY(180deg);
 }
 
