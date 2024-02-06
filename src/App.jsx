@@ -5,7 +5,7 @@ import CatCard from "./components/CatCard";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import NavBar from "./components/NavBar";
+import NavBar from "./components/navBar";
 import Basket from "./components/Basket";
 import { faker } from "@faker-js/faker";
 
