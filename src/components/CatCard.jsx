@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { IoIosCall } from "react-icons/io";
 import { MdOutlineMailOutline } from "react-icons/md";
 import { faker, fakerEN_GB } from "@faker-js/faker";
-import "./catCard.css";
+import "./CatCard.css";
 
 const CatCard = ({ cat, plusToBasket }) => {
   const [toggle, setToggle] = useState(true);
